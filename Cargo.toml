@@ -1,0 +1,6 @@
+[package]
+name = "minigrep"
+version = "0.1.0"
+authors = ["Max Byshnev <max.byshnev@zoho.com>"]
+
+[dependencies]
